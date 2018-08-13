@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 class AA{
 	public function __construct(){
 		echo "construct";
@@ -74,3 +74,4 @@ var_dump($see);
  // echo "<hr/>";
  // ee::aa();
  // var_dump(ee::aa());
+echo "nihao";
